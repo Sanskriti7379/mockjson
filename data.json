@@ -1,0 +1,24 @@
+[
+    {
+        "name":"Sanskriti",
+        "city":"Jabalpur",
+        "course":"React"
+    },
+
+    {
+
+        "name":"Sanskar",
+        "city":"Jabalpur",
+        "course":"Angular"
+       
+
+    },
+    {
+
+        "name":"Ronit",
+        "city":"Bhopal",
+        "course":"Commerce"
+       
+
+    }
+]
