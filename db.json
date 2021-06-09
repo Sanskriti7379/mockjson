@@ -1,4 +1,5 @@
-[
+{
+   " users" :[
     {
         "name":"Sanskriti",
         "city":"Jabalpur",
@@ -22,3 +23,4 @@
 
     }
 ]
+}
